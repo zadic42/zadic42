@@ -19,7 +19,7 @@
 
 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript & Tailwind CSS**
 
-📫 Reach me at **[sadikmohammed.dev@gmail.com](mailto:sadikmohammed.dev@gmail.com)**
+📫 Reach me at **[mohammedsadik.dev@gmail.com](mailto:mohammedsadik.dev@gmail.com)**
 
 👨‍💻 All projects:
 https://github.com/zadic42
