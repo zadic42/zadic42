@@ -32,7 +32,7 @@ I enjoy turning ideas into real-world web applications 🚀
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:sadikmohammed.dev@gmail.com">
+<a href="mailto:mohammedsadik.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 <a href="https://github.com/zadic42">
