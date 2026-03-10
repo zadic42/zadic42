@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling MERN applications and system design**
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/zadic42](https://linkedin.com/in/zadic42)
+- 👨‍💻 All of my projects are available at [https://github.com/in/zadic42](https://github.com/in/zadic42)
 
 - 📝 I regularly write articles on [Coming soon...](Coming soon...)
 
