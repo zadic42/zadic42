@@ -1,64 +1,74 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&size=32&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohammed+Sadik;Full+Stack+MERN+Developer;Backend+Architecture+%7C+Scalable+Apps;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+Ideas+into+Digital+Reality" />
-</p>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&text=MOHAMMED%20SADIK&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20BACKEND%20ARCHITECT&descColor=aaaaaa&descSize=13&descAlign=50&descAlignY=72)
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zadic42&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=00000000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadic42&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=00000000" height="170" />
+
+### ○ PREFACE
+
+**I am a Full Stack Developer specializing in the MERN ecosystem.**<br>
+My work focuses on architecting high-performance backends and crafting high-fidelity user interfaces.<br>
+I thrive in the intersection of logic and aesthetics.
+
 </div>
+
+---
+
+### ○ CORE COMPETENCIES
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/REACT-1a1a1a.svg?style=flat-square&logo=react&logoColor=ffffff&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/NEXT.JS-1a1a1a.svg?style=flat-square&logo=next.js&logoColor=ffffff&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-1a1a1a.svg?style=flat-square&logo=tailwind-css&logoColor=ffffff&labelColor=1a1a1a)
+![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-1a1a1a.svg?style=flat-square&logo=framer&logoColor=ffffff&labelColor=1a1a1a)
+
+**BACKEND**
+
+![Node.js](https://img.shields.io/badge/NODE.JS-1a1a1a.svg?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=1a1a1a)
+![Express](https://img.shields.io/badge/EXPRESS-1a1a1a.svg?style=flat-square&logo=express&logoColor=ffffff&labelColor=1a1a1a)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-1a1a1a.svg?style=flat-square&logo=graphql&logoColor=ffffff&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a1a1a.svg?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/MONGODB-1a1a1a.svg?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=1a1a1a)
+
+**INFRASTRUCTURE**
+
+![Git](https://img.shields.io/badge/GIT-1a1a1a.svg?style=flat-square&logo=git&logoColor=ffffff&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/DOCKER-1a1a1a.svg?style=flat-square&logo=docker&logoColor=ffffff&labelColor=1a1a1a)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a.svg?style=flat-square&logo=amazon-aws&logoColor=ffffff&labelColor=1a1a1a)
+![Postman](https://img.shields.io/badge/POSTMAN-1a1a1a.svg?style=flat-square&logo=postman&logoColor=ffffff&labelColor=1a1a1a)
+![Vercel](https://img.shields.io/badge/VERCEL-1a1a1a.svg?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=1a1a1a)
+
+---
+
+### ○ SELECTED WORK
+
+| PROJECT | DESCRIPTION | LINK |
+| :--- | :--- | :---: |
+| **NANNAK** | SaaS Infrastructure for Automotive Services | [![LIVE](https://img.shields.io/badge/●_LIVE-1a1a1a?style=flat-square&logoColor=white)](https://play.google.com/store/apps/details?id=com.nannak.app) |
+| **VESTIDO NATION** | Premium Fashion E-commerce Platform | [![LIVE](https://img.shields.io/badge/●_LIVE-1a1a1a?style=flat-square&logoColor=white)](https://www.vestidonation.com/) |
+| **THARACART** | Enterprise B2B/B2C E-commerce | [![LIVE](https://img.shields.io/badge/●_LIVE-1a1a1a?style=flat-square&logoColor=white)](https://tharacart.com/) |
+| **DOCTOR APP** | MERN-based Healthcare Booking System | [![SOURCE](https://img.shields.io/badge/◎_SOURCE-1a1a1a?style=flat-square&logoColor=white)](https://github.com/zadic42/Prescripto) |
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadic42&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
+
+### ○ TRANSMISSION
+
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a.svg?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:mohammedsadik.dev@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a.svg?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/zadic42)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a.svg?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammedsadik/)
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=50&text=BUILDING%20THE%20FUTURE%2C%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME.&fontColor=aaaaaa&fontSize=12&fontAlign=50&fontAlignY=55)
+
 </div>
-
----
-
-### 🚀 About Me
-
-I am a **Full Stack Developer** from India with a passion for building high-performance, scalable web applications. My expertise lies in the **MERN Stack** and **Modern Backend Architecture**. I love architecting complex systems and bringing them to life with clean, efficient code.
-
-- 🔭 I’m currently working on **Nannak** (Automotive Service SaaS) & **TharaCart** (B2B/B2C Ecommerce).
-- 👯 I’m looking to collaborate on **Full Stack MERN Applications & Open Source Projects**.
-- 🤝 I’m looking for help with **System Design at Scale & Cloud Orchestration**.
-- 🌱 I’m currently learning **Advanced React Patterns, GraphQL, & DevOps**.
-- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL, & Tailwind CSS**.
-- 📫 Reach me at: **[mohammedsadik.dev@gmail.com](mailto:mohammedsadik.dev@gmail.com)**
-
----
-
-### 💻 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,github,vscode,postman,tailwind,firebase,aws,vercel" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Nannak](https://play.google.com/store/apps/details?id=com.nannak.app)** | Complete backend infrastructure for a garage service booking platform with GraphQL & Real-time updates. | Node.js, GraphQL, MySQL, Socket.io |
-| **[Vestido Nation](https://www.vestidonation.com/)** | Premium fashion ecommerce platform with automated logistics (Shiprocket/Delhivery) and secure payments. | Next.js, TypeScript, Razorpay, Firebase |
-| **[TharaCart](https://tharacart.com/)** | A modern B2C/B2B e-commerce platform featuring role-based pricing and complex inventory management. | React, Node.js, PostgreSQL, Tailwind |
-| **[Doctor Appointment](https://github.com/zadic42/Prescripto)** | MERN-based healthcare platform with real-time booking and automated reminders. | MongoDB, Express, React, Node.js |
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:mohammedsadik.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/zadic42">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohammedsadik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
-  <i>"I enjoy turning complex ideas into elegant, real-world web applications 🚀"</i>
-</p>
