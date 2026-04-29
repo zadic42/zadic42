@@ -59,6 +59,6 @@ I thrive in the intersection of logic and aesthetics.
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=50&text=BUILDING%20THE%20FUTURE%2C%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME.&fontColor=aaaaaa&fontSize=12&fontAlign=50&fontAlignY=55)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=BUILDING%20THE%20FUTURE%2C%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME.&fontColor=ffffff&fontSize=12&fontAlign=50&fontAlignY=55)
 
 </div>
