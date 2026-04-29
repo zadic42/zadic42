@@ -1,12 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&text=MOHAMMED%20SADIK&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20BACKEND%20ARCHITECT&descColor=aaaaaa&descSize=13&descAlign=50&descAlignY=72)
-
-</div>
-
----
-
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=MOHAMMED%20SADIK&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20BACKEND%20ARCHITECT&descColor=aaaaaa&descSize=15&descAlign=50&descAlignY=68&animation=fadeIn)
 
 ### ○ PREFACE
 
@@ -14,41 +8,39 @@
 My work focuses on architecting high-performance backends and crafting high-fidelity user interfaces.<br>
 I thrive in the intersection of logic and aesthetics.
 
-</div>
-
 ---
 
 ### ○ CORE COMPETENCIES
 
 **FRONTEND**
-
-![React](https://img.shields.io/badge/REACT-1a1a1a.svg?style=flat-square&logo=react&logoColor=ffffff&labelColor=1a1a1a)
-![Next.js](https://img.shields.io/badge/NEXT.JS-1a1a1a.svg?style=flat-square&logo=next.js&logoColor=ffffff&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=1a1a1a)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-1a1a1a.svg?style=flat-square&logo=tailwind-css&logoColor=ffffff&labelColor=1a1a1a)
-![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-1a1a1a.svg?style=flat-square&logo=framer&logoColor=ffffff&labelColor=1a1a1a)
+<br>
+![React](https://img.shields.io/badge/REACT-1a1a1a.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/NEXT.JS-1a1a1a.svg?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1a1a.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-1a1a1a.svg?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-1a1a1a.svg?style=for-the-badge&logo=framer&logoColor=ffffff)
 
 **BACKEND**
-
-![Node.js](https://img.shields.io/badge/NODE.JS-1a1a1a.svg?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=1a1a1a)
-![Express](https://img.shields.io/badge/EXPRESS-1a1a1a.svg?style=flat-square&logo=express&logoColor=ffffff&labelColor=1a1a1a)
-![GraphQL](https://img.shields.io/badge/GRAPHQL-1a1a1a.svg?style=flat-square&logo=graphql&logoColor=ffffff&labelColor=1a1a1a)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a1a1a.svg?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=1a1a1a)
-![MongoDB](https://img.shields.io/badge/MONGODB-1a1a1a.svg?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=1a1a1a)
+<br>
+![Node.js](https://img.shields.io/badge/NODE.JS-1a1a1a.svg?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/EXPRESS-1a1a1a.svg?style=for-the-badge&logo=express&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-1a1a1a.svg?style=for-the-badge&logo=graphql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a1a1a.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MONGODB-1a1a1a.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 **INFRASTRUCTURE**
-
-![Git](https://img.shields.io/badge/GIT-1a1a1a.svg?style=flat-square&logo=git&logoColor=ffffff&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/DOCKER-1a1a1a.svg?style=flat-square&logo=docker&logoColor=ffffff&labelColor=1a1a1a)
-![AWS](https://img.shields.io/badge/AWS-1a1a1a.svg?style=flat-square&logo=amazon-aws&logoColor=ffffff&labelColor=1a1a1a)
-![Postman](https://img.shields.io/badge/POSTMAN-1a1a1a.svg?style=flat-square&logo=postman&logoColor=ffffff&labelColor=1a1a1a)
-![Vercel](https://img.shields.io/badge/VERCEL-1a1a1a.svg?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=1a1a1a)
+<br>
+![Git](https://img.shields.io/badge/GIT-1a1a1a.svg?style=for-the-badge&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/DOCKER-1a1a1a.svg?style=for-the-badge&logo=docker&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a.svg?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/POSTMAN-1a1a1a.svg?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/VERCEL-1a1a1a.svg?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 ---
 
 ### ○ SELECTED WORK
 
-| PROJECT | DESCRIPTION | LINK |
+| PROJECT | DESCRIPTION | STATUS |
 | :--- | :--- | :---: |
 | **NANNAK** | SaaS Infrastructure for Automotive Services | [![LIVE](https://img.shields.io/badge/●_LIVE-1a1a1a?style=flat-square&logoColor=white)](https://play.google.com/store/apps/details?id=com.nannak.app) |
 | **VESTIDO NATION** | Premium Fashion E-commerce Platform | [![LIVE](https://img.shields.io/badge/●_LIVE-1a1a1a?style=flat-square&logoColor=white)](https://www.vestidonation.com/) |
@@ -57,15 +49,13 @@ I thrive in the intersection of logic and aesthetics.
 
 ---
 
-<div align="center">
-
 ### ○ TRANSMISSION
 
-[![Email](https://img.shields.io/badge/EMAIL-1a1a1a.svg?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:mohammedsadik.dev@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mohammedsadik.dev@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a.svg?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/zadic42)
+[![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a.svg?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/zadic42)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a.svg?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammedsadik/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammedsadik/)
 
 <br>
 
