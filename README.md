@@ -4,7 +4,7 @@
 
 ### ○ PREFACE
 
-**I am a Full Stack Developer specializing in the MERN ecosystem.**<br>
+**I am a Full Stack Developer specializing in the MERN and Next.js ecosystem.**<br>
 My work focuses on architecting high-performance backends and crafting high-fidelity user interfaces.<br>
 I thrive in the intersection of logic and aesthetics.
 
